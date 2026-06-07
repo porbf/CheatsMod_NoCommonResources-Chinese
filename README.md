@@ -3,13 +3,13 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/MegaPiggy/CheatsMod_NoCommonResources/total?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/MegaPiggy/CheatsMod_NoCommonResources/latest/total?style=flat-square)
 
-# Cheats Mod by MegaPiggy
+# Cheats Mod by MegaPiggy  bonesfrisk汉化
 
 ![Thumbnail](Thumbnail.png)
 
 Fork of [Pacific Engine's Cheats Mod](https://github.com/PacificEngine/OW_CheatsMod).
 
-This fork gets rid of the dependency on [Pacific Engine's Common Resources](https://github.com/PacificEngine/OW_CommonResources).
+这个分支消除了对 [Pacific Engine's Common Resources](https://github.com/PacificEngine/OW_CommonResources).
 
 ![No Cr](no-cr.png)
 
