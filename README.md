@@ -13,12 +13,14 @@ This fork gets rid of the dependency on [Pacific Engine's Common Resources](http
 
 ![No Cr](no-cr.png)
 
-It also fixes a few bugs that were in the original mod and adds more cheats.
+它还修复了原版模组中的几个错误，并增加了更多作弊功能。
 
 ## Installing the Mod
-1) Download and install https://outerwildsmods.com/mod-manager/
-2) From the Application, Install `Cheats Mod` by `MegaPiggy`
+1) 下载并安装 https://outerwildsmods.com/mod-manager/
+2) 将此模组安装至Mod目录下
 
+
+下面我懒得汉化了游戏内选项已汉化
 ## Using Mod
 Default value for commands
 
