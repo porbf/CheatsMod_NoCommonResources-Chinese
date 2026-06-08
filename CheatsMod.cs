@@ -213,7 +213,7 @@ namespace CheatsMod
 
         void Destory()
         {
-            ModHelper.Console.WriteLine("CheatMods clean up!");
+            ModHelper.Console.WriteLine("CheatMods 清理完毕!");
         }
 
         public static bool HighSpeedImpactSensor_FixedUpdate() => !Player.isInvincible;
@@ -390,7 +390,7 @@ namespace CheatsMod
             inputs.addInput(config, CheatOptions.Eject_Ship, "LeftAlt,Digit1");
             inputs.addInput(config, CheatOptions.Explode_Ship, "LeftAlt,Digit2");
 
-            ModHelper.Console.WriteLine("CheatMods Confgiured!");
+            ModHelper.Console.WriteLine("CheatMods 配置完成!");
         }
 
         public bool inDreamWorld = false;
@@ -407,7 +407,7 @@ namespace CheatsMod
 
         void onAwake()
         {
-            ModHelper.Console.WriteLine("CheatMods: Player Awakes");
+            ModHelper.Console.WriteLine("CheatMods: 玩家苏醒");
             Position.Awake();
             Items.Awake();
             //GameObject.DontDestroyOnLoad(new GameObject("LudicrousSpeed", typeof(LudicrousSpeed)));

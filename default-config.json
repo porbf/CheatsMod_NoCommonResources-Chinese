@@ -60,196 +60,196 @@
         "Fill Fuel and Health": {
             "type": "text",
             "value": "C,J",
-            "title": "快捷键：补满燃料和生命"
+            "title": "补满燃料和生命"
         },
         "Toggle Helmet": {
             "type": "text",
             "value": "C,H",
-            "title": "快捷键：开关头盔"
+            "title": "开关头盔"
         },
         "Toggle Player Invincibility": {
             "type": "text",
             "value": "C,I",
-            "title": "快捷键：切换玩家无敌"
+            "title": "切换玩家无敌"
         },
         "Toggle Ship Invincibility": {
             "type": "text",
             "value": "C,Q",
-            "title": "快捷键：切换飞船无敌"
+            "title": "切换飞船无敌"
         },
         "Toggle Spacesuit": {
             "type": "text",
             "value": "C,G",
-            "title": "快捷键：穿脱宇航服"
+            "title": "切换宇航服"
         },
         "Toggle Training Suit": {
             "type": "text",
             "value": "C,Digit1",
-            "title": "快捷键：切换训练服"
+            "title": "切换训练服"
         },
         "Toggle Player Gravity": {
             "type": "text",
             "value": "P,G",
-            "title": "快捷键：切换玩家重力"
+            "title": "切换玩家重力"
         },
         "Toggle Ship Gravity": {
             "type": "text",
             "value": "S,G",
-            "title": "快捷键：切换飞船重力"
+            "title": "切换飞船重力"
         },
         "Toggle Player Collision": {
             "type": "text",
             "value": "P,C",
-            "title": "快捷键：切换玩家碰撞体积(穿墙)"
+            "title": "切换玩家碰撞(穿墙)"
         },
         "Toggle Ship Collision": {
             "type": "text",
             "value": "S,C",
-            "title": "快捷键：切换飞船碰撞体积"
+            "title": "切换飞船碰撞"
         },
         "Toggle Player Fluid Collision": {
             "type": "text",
             "value": "P,F",
-            "title": "快捷键：切换玩家流体碰撞"
+            "title": "切换玩家流体碰撞"
         },
         "Toggle Ship Fluid Collision": {
             "type": "text",
             "value": "S,F",
-            "title": "快捷键：切换飞船流体碰撞"
+            "title": "切换飞船流体碰撞"
         },
         "Toggle Unlimited Boost": {
             "type": "text",
             "value": "C,T",
-            "title": "快捷键：切换无限喷气加速"
+            "title": "切换无限喷气加速"
         },
         "Toggle Unlimited Fuel": {
             "type": "text",
             "value": "C,Y",
-            "title": "快捷键：切换无限燃料"
+            "title": "切换无限燃料"
         },
         "Toggle Unlimited Oxygen": {
             "type": "text",
             "value": "C,O",
-            "title": "快捷键：切换无限氧气"
+            "title": "切换无限氧气"
         },
         "Toggle Unlimited Health": {
             "type": "text",
             "value": "C,U",
-            "title": "快捷键：切换无限生命"
+            "title": "切换无限生命"
         },
 
         "Toggle Launch Codes": {
             "type": "text",
             "value": "C,L",
-            "title": "快捷键：解锁发射密码"
+            "title": "解锁发射密码"
         },
         "Toggle Eye Coordinates": {
             "type": "text",
             "value": "C,E",
-            "title": "快捷键：获取宇宙之眼坐标"
+            "title": "获取宇宙之眼坐标"
         },
         "Toggle All Frequencies": {
             "type": "text",
             "value": "C,F",
-            "title": "快捷键：解锁所有信号频率"
+            "title": "解锁所有信号频率"
         },
         "Toggle Rumors": {
             "type": "text",
             "value": "C,R",
-            "title": "快捷键：解锁全部航行日志传闻"
+            "title": "解锁全部航行日志传闻"
         },
 
         "Toggle Fog": {
             "type": "text",
             "value": "F,O,G",
-            "title": "快捷键：开关全局迷雾"
+            "title": "开关全局迷雾"
         },
         "Toggle Anglerfish AI": {
             "type": "text",
             "value": "V,I",
-            "title": "快捷键：开关安康鱼 AI"
+            "title": "开关安康鱼 AI"
         },
         "Toggle Inhabitants AI": {
             "type": "text",
             "value": "V,O",
-            "title": "快捷键：开关居民 AI"
+            "title": "开关居民 AI"
         },
         "Toggle Inhabitants Hostility": {
             "type": "text",
             "value": "V,H",
-            "title": "快捷键：开关居民敌意"
+            "title": "开关居民敌意"
         },
         "Toggle Supernova Timer": {
             "type": "text",
             "value": "V,Digit0",
-            "title": "快捷键：暂停/恢复超新星爆发倒计时"
+            "title": "暂停/恢复超新星爆发倒计时"
         },
         "Decrease Supernova Timer": {
             "type": "text",
             "value": "V,Minus",
-            "title": "快捷键：减少超新星倒计时(加速爆发)"
+            "title": "减少超新星倒计时(加速爆发)"
         },
         "Increase Supernova Timer": {
             "type": "text",
             "value": "V,Equals",
-            "title": "快捷键：增加超新星倒计时(推迟爆发)"
+            "title": "增加超新星倒计时(推迟爆发)"
         },
 
         "Quantum Moon Collapse": {
             "type": "text",
             "value": "Q,Digit0",
-            "title": "快捷键：强行坍缩量子月"
+            "title": "强行坍缩量子卫星"
         },
         "Quantum Moon EmberTwin": {
             "type": "text",
             "value": "Q,Digit1",
-            "title": "快捷键：量子月前往 - 碎烬双星"
+            "title": "量子卫星 - 到余烬双星"
         },
         "Quantum Moon TimberHearth": {
             "type": "text",
             "value": "Q,Digit2",
-            "title": "快捷键 : 量子月前往 - 木炉星"
+            "title": "量子卫星 - 到木炉星"
         },
         "Quantum Moon BrittleHollow": {
             "type": "text",
             "value": "Q,Digit3",
-            "title": "快捷键：量子月前往 - 废土碎星"
+            "title": "量子卫星 - 到碎空星"
         },
         "Quantum Moon GiantsDeep": {
             "type": "text",
             "value": "Q,Digit4",
-            "title": "快捷键：量子月前往 - 深巨星"
+            "title": "量子卫星 - 到深巨星"
         },
         "Quantum Moon DarkBramble": {
             "type": "text",
             "value": "Q,Digit5",
-            "title": "快捷键：量子月前往 - 黑棘星"
+            "title": "量子卫星 - 到黑棘星"
         },
         "Quantum Moon Eye": {
             "type": "text",
             "value": "Q,Digit6",
-            "title": "快捷键：量子月前往 - 宇宙之眼"
+            "title": "量子卫星 - 到宇宙之眼"
         },
 
         "Increase Jetpack Acceleration": {
             "type": "text",
             "value": "P,Equals",
-            "title": "快捷键：增加喷气背包加速度"
+            "title": "增加喷气背包加速度"
         },
         "Decrease Jetpack Acceleration": {
             "type": "text",
             "value": "P,Minus",
-            "title": "快捷键：减少喷气背包加速度"
+            "title": "减少喷气背包加速度"
         },
         "Decrease Ship Acceleration": {
             "type": "text",
             "value": "O,Minus",
-            "title": "快捷键：减少飞船加速度"
+            "title": "减少飞船加速度"
         },
         "Increase Ship Acceleration": {
             "type": "text",
             "value": "O,Equals",
-            "title": "快捷键：增加飞船加速度"
+            "title": "增加飞船加速度"
         },
 
         "Teleport To Sun": {
@@ -265,7 +265,7 @@
         "Teleport To EmberTwin": {
             "type": "text",
             "value": "T,Digit3",
-            "title": "传送：碎烬双星"
+            "title": "传送：余烬双星"
         },
         "Teleport To AshTwin": {
             "type": "text",
@@ -295,7 +295,7 @@
         "Teleport To BrittleHollow": {
             "type": "text",
             "value": "T,Digit7",
-            "title": "传送：废土碎星"
+            "title": "传送：碎空星"
         },
         "Teleport To HollowsLantern": {
             "type": "text",
@@ -350,7 +350,7 @@
         "Teleport To QuantumMoon": {
             "type": "text",
             "value": "T,Numpad7",
-            "title": "传送：量子月"
+            "title": "传送：量子卫星"
         },
         "Teleport To Ship": {
             "type": "text",
@@ -375,7 +375,7 @@
         "Teleport To Vessel": {
             "type": "text",
             "value": "T,NumpadPlus",
-            "title": "传送：挪麦方舟(黑棘星深处)"
+            "title": "传送：挪麦飞船(黑棘星深处)"
         },
         "Teleport To Mapping Satellite": {
             "type": "text",
@@ -572,37 +572,37 @@
         "Give Identify Conversation Stone": {
             "type": "text",
             "value": "C,Digit2",
-            "title": "刷取石碑：‘辨识/相认’"
+            "title": "刷取对话石：‘识别’"
         },
         "Give Explain Conversation Stone": {
             "type": "text",
             "value": "C,Digit3",
-            "title": "刷取石碑：‘解释/说明’"
+            "title": "刷取对话石：‘说明’"
         },
         "Give Eye Conversation Stone": {
             "type": "text",
             "value": "C,Digit4",
-            "title": "刷取石碑：‘宇宙之眼’"
+            "title": "刷取对话石：‘宇宙之眼’"
         },
         "Give Quantum Moon Conversation Stone": {
             "type": "text",
             "value": "C,Digit5",
-            "title": "刷取石碑：‘量子月’"
+            "title": "刷取对话石：‘量子卫星’"
         },
         "Give You Conversation Stone": {
             "type": "text",
             "value": "C,Digit6",
-            "title": "刷取石碑：‘你’"
+            "title": "刷取对话石：‘你’"
         },
         "Give Me Conversation Stone": {
             "type": "text",
             "value": "C,Digit7",
-            "title": "刷取石碑：‘我’"
+            "title": "刷取对话石：‘我’"
         },
         "Give Nomai Conversation Stone": {
             "type": "text",
             "value": "C,Digit8",
-            "title": "刷取石碑：‘挪麦人’"
+            "title": "刷取对话石：‘挪麦人’"
         },
 
         "Give Sun Station Projection Stone": {
@@ -688,18 +688,18 @@
         "Give North Pole Projection Stone": {
             "type": "text",
             "value": "P,S,Numpad7",
-            "title": "刷取投影石：量子月北极"
+            "title": "刷取投影石：量子卫星北极"
         },
 
         "Eject Ship": {
             "type": "text",
             "value": "LeftAlt,Digit1",
-            "title": "快捷键：飞船弹射求生"
+            "title": "飞船弹射"
         },
         "Explode Ship": {
             "type": "text",
             "value": "LeftAlt,Digit2",
-            "title": "快捷键：引爆飞船"
+            "title": "引爆飞船"
         }
     }
 }
